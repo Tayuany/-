@@ -1,0 +1,23 @@
+# String Array Filter
+
+This program filters an array of strings to create a new array containing strings with a length less than or equal to 3 characters.
+
+## Examples
+
+Input: ["Hello", "2", "world", ":-)"]
+Output: ["2", ":-)"]
+
+Input: ["1234", "1567", "-2", "computer science"]
+Output: ["-2"]
+
+Input: ["Russia", "Denmark", "Kazan"]
+Output: []
+
+## How to Run
+
+1. Clone this repository to your local machine.
+2. Navigate to the directory where the repository is cloned.
+3. Compile and run the program using your preferred Java compiler.
+4. Follow the on-screen instructions to input the array of strings or modify the array in the source code.
+5. View the output array printed in the console.
+
